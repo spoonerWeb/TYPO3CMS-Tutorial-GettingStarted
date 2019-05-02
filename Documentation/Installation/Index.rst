@@ -16,10 +16,9 @@ For trying out TYPO3 CMS you need to have a fully configured and ready
 to use web server which meets the `minimum system requirements
 <https://get.typo3.org/version/9#system-requirements>`_.
 
-If you do not have a web server and you are running a MS Windows
-on your local machine, you might want to try the `TYPO3Winstaller
-<http://typo3winstaller.sourceforge.net/>`_, which will install a web
-server and TYPO3 CMS on your computer.
+If you do not have a web server, you need to run one on your local machine.
+You can find detailed information at `the Installation Guide
+<https://docs.typo3.org/typo3cms/InstallationGuide/>`_.
 
 Make sure to have your database credentials ready.
 
